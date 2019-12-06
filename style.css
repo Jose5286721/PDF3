@@ -1,0 +1,119 @@
+@page {
+	padding:0;
+	font-family: 'satisfy';
+}
+.titulos{
+	color:#525557;
+	margin-left:90;
+	width:130mm;
+	border-collapse: separate;
+	text-align: left;
+}
+
+.titulos tr th.a1{
+	width: 50mm;
+	text-align:left;
+}
+.titulos tr th.a2{
+	width: 30mm;
+	text-align:left;
+}
+.titulos tr th.a3{
+	width: 25mm;
+	text-align:left;
+}
+.titulos tr th.a4{
+	width: 25mm;
+	text-align:left;
+}
+.cabecera{
+	width: 100mm;
+	margin-top:40;
+	margin-left:90;
+	height:12%;
+	color:#525557;
+	font-size:50px;
+	font-family: 'satisfy';
+}
+.barra{
+	margin-top:20;
+	margin-left:90;
+	width: 130mm;
+	height:2mm;
+	background-color: #a4c3cb;
+}
+.seccion{
+	height:15%;
+	width:141.5%;
+	right:0;
+	background-color: #a2bfc7;
+	position:absolute;
+	rotate:-90;
+}
+.inclinacion-texto{
+	position:absolute;
+	rotate:45;
+	height:25mm;
+	width:80mm;
+	margin-left:70%;
+	color:white;
+	background-color: #a2bfc7;
+	font-size: 50px;
+	font-family: 'satisfy';
+}
+.productos{
+	color:#8c8c8c;
+	margin-left:90;
+	margin-top:12;
+	width:130mm;
+	border-collapse: separate;
+	text-align: left;
+}
+
+.productos div.b1{
+	float:left;
+	width: 50mm;
+	text-align:left;
+}
+.productos div.b2{
+	float:left;
+	width: 30mm;
+	text-align:left;
+	
+}
+.productos div.b3{
+	float:left;
+	width: 25mm;
+	text-align:left;
+}
+.productos div.b4{
+	float:left;
+	width: 25mm;
+	text-align:left;
+}
+.totales{
+	margin-top:12mm;
+	margin-left:90mm;
+	width:75mm;
+}
+.iz{
+	font-weight: bold;
+	text-align:right;
+	width:59%;
+	float:left;
+	color:#525557;
+}
+.der{
+	color:#8c8c8c;
+	text-indent: 20;
+	text-align:left;
+	width:39%;
+	float:left;
+}
+.pie-pagina{
+	font-size: 22px;
+	font-family: 'satisfy';
+	margin-left:90;
+	color:#525557;
+	margin-bottom:90;
+}
